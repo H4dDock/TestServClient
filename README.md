@@ -1,2 +1,2 @@
 #TestServer
-Just test server. Mb later I will do smth with it.
+Test server java for archive.
